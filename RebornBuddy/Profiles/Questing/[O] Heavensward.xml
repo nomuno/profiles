@@ -2850,6 +2850,7 @@
 						</If>
 					</If>
 					<NoCombatMoveTo Name="Cargo Net" XYZ="-336.3122, -182.8864, 726.5989" />
+					<NoCombatMoveTo Name="Force Move To Emmanellain" XYZ="-293.0119, -183.6792, 810.4723" />
 					<If Condition="GetQuestById(67129).QuestI8AH == 0">
 						<EmoteNPC NpcId="1013498" Emote="psych" XYZ="-293.0496, -183.7349, 812.6802" Radius="10" UseTimes="1" QuestId="67129" StepId="1" />
 					</If>
